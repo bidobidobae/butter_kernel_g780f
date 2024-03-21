@@ -253,7 +253,7 @@ source "drivers/security/samsung/icdrv/Kconfig"
 
 source "drivers/gator/Kconfig"
 
-source "drivers/kperfmon/Kconfig"
+#source "drivers/kperfmon/Kconfig"
 
 source "drivers/security/samsung/tzic/Kconfig"
 
